@@ -13,8 +13,4 @@ public class Item {
 	private String name;
 	private Integer number;
 }
-<<<<<<< HEAD
-//////////////////////////////////////////////
-=======
-///////////////////////
->>>>>>> branch 'master' of https://github.com/dueretrieve/ssm.git
+
